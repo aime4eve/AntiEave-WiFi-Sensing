@@ -4,6 +4,8 @@ Anti-eavesdropping for WiFi sensing.
 
 Codebase for paper: "Scheduled Spatial Sensing against Adversarial WiFi Sensing" in PerCom 2023.
 
+https://www.semanticscholar.org/paper/Scheduled-Spatial-Sensing-against-Adversarial-WiFi-Hernandez-Bulut/9064915c80679d84802d2f111884ff0cffa6d013
+
 Cite this work as:
 
 ```
